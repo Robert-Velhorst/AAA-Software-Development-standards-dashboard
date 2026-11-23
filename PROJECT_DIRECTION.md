@@ -19,3 +19,5 @@
 ---
 
 *This file serves as the authoritative project direction record inside the repository.*
+
+- **Canonical Single Source of Truth:** [docs/MASTER_PLAN.md](docs/MASTER_PLAN.md)
