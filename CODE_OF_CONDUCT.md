@@ -16,4 +16,4 @@ Harassment, discrimination, threats, deliberate intimidation, personal attacks, 
 Project maintainers may edit or remove contributions and may temporarily or permanently restrict participation when this Code is violated. They will consider the nature and impact of the conduct.
 
 ## Reporting
-To report a conduct concern privately, email [noodzakelijkonline@gmail.com](mailto:noodzakelijkonline@gmail.com). Avoid putting personal or sensitive details in a public issue. For security vulnerabilities, use the repository's private vulnerability reporting feature when available.
+To report a conduct concern privately, contact the repository maintainers through a private contact method listed on the repository owner's GitHub profile, or open a minimal GitHub issue requesting a private channel without posting personal or sensitive details publicly. For security vulnerabilities, use the repository's private vulnerability reporting feature (`SECURITY.md`) when available.
